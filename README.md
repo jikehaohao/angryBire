@@ -21,6 +21,6 @@ $ npm run build
 
 ## Screenshot
 
-![Screenshot](http://gitlab.puhuitech.cn/hebo/angryBird/raw/master/src/images/screenshot.png)
+![Screenshot](https://github.com/jikehaohao/angryBire/raw/master/src/images/screenshot.png)
 
 # angryBire
